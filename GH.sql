@@ -1,0 +1,1 @@
+SELECT * FROM 339project.courses_taken;
